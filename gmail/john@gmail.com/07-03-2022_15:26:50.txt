@@ -1,0 +1,5 @@
+sender_email: sam@outlook.com
+receiver_email: john@gmail.com
+data: 
+hi dksnvljsnvl
+akvnldsknv
